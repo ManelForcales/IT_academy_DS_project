@@ -1,15 +1,15 @@
 IT_Academy_DataScience_project **CryptoPunks**
 
-+ Fase 1-ETL (Extract Transform and Load) the Data
++ Fase 1- ETL (Extract Transform and Load) the Data
   + We will use Webscrapping to extract the data of all 10000 punks from defypunk
   + load data in a structural format
   + Design Relational Database in SQL or MYSQL using Entity Relationship Diagram (ERD)
   + load data to the ERD
 
 
-+ Fase 2-EDA (Exploratory Data Analysis)
-+ Fase 3-Predictions & ML algorithms
-+ Fase 4- Informe	
++ Fase 2- EDA (Exploratory Data Analysis)
++ Fase 3- Predictions & ML algorithms
++ Fase 4- Informe Final	
 
 ***DATA***:
 The *CryptoPunks* are 10,000 uniquely generated characters.
